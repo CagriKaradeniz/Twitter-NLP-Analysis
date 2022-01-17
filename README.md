@@ -3,9 +3,9 @@
 ![This is an image](https://github.com/CagriKaradeniz/Twitter-NLP-Analysis/blob/main/IMG_20220117_081027.jpg?raw=true)
 
 # Business Problem
-I got last @Türk_politika 3000 tweets with twiter.developer api and I analysed all his tweets with NLP method.
-I chosen @türk_politika twitter account because he share valuable informations about foreign policy of Türkiye.
-I am strongly recommending to follow this account on twiter.
+I got last @turk_politika 3000 tweets with twitter.developer api and I analysed all his tweets with NLP method.
+I chosen @turk_politika twitter account because he share valuable informations about foreign policy of Türkiye.
+I am strongly recommending to follow this account on twitter.
 
 # Code
 I got all tweet content and split to each words. I filtered all content to delete nonsense words.
